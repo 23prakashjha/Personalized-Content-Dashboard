@@ -1,0 +1,115 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2257 >>
+stream
+BT
+/F1 20 Tf
+72 780 Td
+(Good Things - Project Documentation) Tj
+0 -26 Td
+/F1 12 Tf
+0 -16 Td
+(Project Overview) Tj
+0 -18 Td
+(Good Things is a calm, personalized content dashboard for discovering articles, podcasts, videos, and community content.) Tj
+0 -18 Td
+(It is designed to feel intentional, less overwhelming, and more personal than a typical news feed.) Tj
+0 -18 Td
+0 -16 Td
+(Core Features) Tj
+0 -18 Td
+(- Personalized feed with curated content) Tj
+0 -18 Td
+(- Topic filtering for Design, Technology, Culture, Science, Wellness, and Business) Tj
+0 -18 Td
+(- Search across titles, authors, categories, and sources) Tj
+0 -18 Td
+(- Save and unsave favorites for later) Tj
+0 -18 Td
+(- Trending and featured content sections) Tj
+0 -18 Td
+(- Dark mode and responsive layout) Tj
+0 -18 Td
+(- Drag-and-drop card positioning) Tj
+0 -18 Td
+0 -16 Td
+(Technology Stack) Tj
+0 -18 Td
+(- React 18) Tj
+0 -18 Td
+(- Vite) Tj
+0 -18 Td
+(- Tailwind CSS) Tj
+0 -18 Td
+(- Redux Toolkit) Tj
+0 -18 Td
+(- Framer Motion) Tj
+0 -18 Td
+(- Lucide React) Tj
+0 -18 Td
+0 -16 Td
+(Project Structure) Tj
+0 -18 Td
+(- src/App.jsx: dashboard layout and interactive views) Tj
+0 -18 Td
+(- src/content.js: mock stories and content catalog) Tj
+0 -18 Td
+(- src/store.js: Redux state and preferences persistence) Tj
+0 -18 Td
+(- src/index.css: styling and design system) Tj
+0 -18 Td
+(- src/main.jsx: app bootstrap) Tj
+0 -18 Td
+0 -16 Td
+(How It Works) Tj
+0 -18 Td
+(The app loads a curated library of mock content, lets users filter by topic, search the collection, and save items.) Tj
+0 -18 Td
+(Favorites, theme preference, and selected interests are kept in browser localStorage so the experience feels personal.) Tj
+0 -18 Td
+(This is a front-end demo project, not a production backend system, but it demonstrates how a personalized dashboard can work.) Tj
+0 -18 Td
+0 -16 Td
+(Getting Started) Tj
+0 -18 Td
+(1. Install dependencies: npm install) Tj
+0 -18 Td
+(2. Start the app: npm run dev) Tj
+0 -18 Td
+(3. Build for production: npm run build) Tj
+0 -18 Td
+(4. Preview the build: npm run preview) Tj
+0 -18 Td
+0 -16 Td
+(Summary) Tj
+0 -18 Td
+(Good Things is a clean, user-friendly content dashboard that combines curated discovery, saved content, and personalization in one simple experience.) Tj
+0 -18 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000002550 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2620
+%%EOF
